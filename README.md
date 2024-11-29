@@ -17,7 +17,7 @@ Performance Scores, Attrition Status
 (Ensure data privacy and compliance with data-sharing guidelines.)
 
 ## Link to Dashboard
-Explore the dashboard on Tableau Public:
+Explore the dashboard on Tableau Public: https://public.tableau.com/app/profile/rohit.gaikwad3772/viz/AnalyzingEmployeeTrends_17327035393400/Dashboard1
 Analyzing Employee Trends
 
 ## Installation and Usage
