@@ -1,7 +1,6 @@
 # Analyzing-Employee-Trends-Dashboard
 
-# Employee Trends Analysis Dashboard
-
+![Dashboard Preview](https://github.com/rohitgaikwad45/Analyzing-Employee-Trends-Dashboard/blob/main/Dashboard%201.png)
 ![Dashboard Preview](Dashboard 1.png)
 
 This is an interactive Tableau dashboard analyzing employee trends...
