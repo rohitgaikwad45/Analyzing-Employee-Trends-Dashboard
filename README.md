@@ -1,5 +1,11 @@
 # Analyzing-Employee-Trends-Dashboard
 
+# Employee Trends Analysis Dashboard
+
+![Dashboard Preview](Dashboard 1.png)
+
+This is an interactive Tableau dashboard analyzing employee trends...
+
 ## Overview
 This project is an interactive Tableau dashboard designed to analyze employee trends and provide actionable insights. It explores key aspects such as workforce distribution, attrition rates, and performance metrics. The dashboard is published on Tableau Public and offers dynamic filtering and drill-down capabilities for effective decision-making.
 
